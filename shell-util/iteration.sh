@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -xv
 
 date="name,sex,rollno,location"
 oldIFS=$IFS
